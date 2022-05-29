@@ -1,0 +1,12 @@
+NORTECH v1.0.0
+
+Nortech es un sistema de la gestión de un negocio de computadoras armadas, componentes y de accesorios. 
+La solución contempla la gestión de los productos, los proveedores, las compras y ventas. 
+El negocio esta ubicado en un domicilio, no tiene salón de ventas ni ventas web. 
+La publicidad y precios se manejan por redes sociales, así como también la toma de los pedidos y la comunicación con los clientes.
+
+
+en la version 1.0.0 se hicieron las clases principales, con sus atributos, constructores y metodos de consulta (print en la consola).
+en el main hay una secuenca de creacion y consulta de los objetos para demostrar el funcionamiento.
+
+--------------------------------------------------------------------------------------------------------
